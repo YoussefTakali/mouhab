@@ -240,7 +240,7 @@ import { Mission, MISSION_TYPE_LABELS, MISSION_STATUS_LABELS } from '../../../co
     }
 
     .job-title {
-      color: var(--text-light);
+      color: white !important;
       margin-bottom: 0.5rem;
     }
 
