@@ -96,7 +96,7 @@ Après le premier démarrage, créez un compte via l'API ou inscrivez-vous depui
 
 ```bash
 # Créer un compte admin via curl
-curl -X POST http://localhost:8080/api/auth/register \
+curl -X POST https://lesdeboucheursdefrance.cloud/api/auth/register \
   -H "Content-Type: application/json" \
   -d '{
     "firstName": "Admin",
