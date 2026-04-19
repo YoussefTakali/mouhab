@@ -1,61 +1,61 @@
 {
-  "hash": "7babc743",
-  "configHash": "ce645c89",
+  "hash": "bf01a7a4",
+  "configHash": "4c53ee63",
   "lockfileHash": "7378f08c",
-  "browserHash": "7905ad66",
+  "browserHash": "0c210ac9",
   "optimized": {
     "@angular/common": {
       "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
       "file": "@angular_common.js",
-      "fileHash": "6d7f37bb",
+      "fileHash": "4616be57",
       "needsInterop": false
     },
     "@angular/common/http": {
       "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
       "file": "@angular_common_http.js",
-      "fileHash": "6e4eee22",
+      "fileHash": "f1c620b4",
       "needsInterop": false
     },
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "5e07a018",
+      "fileHash": "9066fb5b",
       "needsInterop": false
     },
     "@angular/forms": {
       "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
       "file": "@angular_forms.js",
-      "fileHash": "e96b8d25",
+      "fileHash": "1fd49afb",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "fb1e5487",
+      "fileHash": "f3d3206b",
       "needsInterop": false
     },
     "@angular/platform-browser/animations": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations.mjs",
       "file": "@angular_platform-browser_animations.js",
-      "fileHash": "a2b8a868",
+      "fileHash": "44aca8d9",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "6a13a2df",
+      "fileHash": "463fe34c",
       "needsInterop": false
     },
     "maplibre-gl": {
       "src": "../../../../../node_modules/maplibre-gl/dist/maplibre-gl.js",
       "file": "maplibre-gl.js",
-      "fileHash": "25384a17",
+      "fileHash": "0d171ee2",
       "needsInterop": true
     },
     "rxjs": {
       "src": "../../../../../node_modules/rxjs/dist/esm5/index.js",
       "file": "rxjs.js",
-      "fileHash": "ad7aee97",
+      "fileHash": "a6057514",
       "needsInterop": false
     }
   },
